@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+I am a cognitive scientist working on data science projects.
+
+```{r}
+plot(iris)
+```

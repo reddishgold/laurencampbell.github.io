@@ -1,0 +1,9 @@
+---
+title: "Lauren Campbell"
+---
+
+This is a Lauren Campbell website.
+
+```{r}
+plot(mtcars)
+```
